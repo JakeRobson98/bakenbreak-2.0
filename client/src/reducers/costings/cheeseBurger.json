@@ -1,0 +1,132 @@
+[
+  {
+    "Product": "Mince",
+    "UOM": "",
+    "Batch Quantity": 0.13,
+    "Yield %": "79%",
+    "Quantity Yield": 0.103,
+    "Cost per unit/kg": "$ 10.70",
+    "Unit reduction": 1,
+    "Batch Cost": "$ 1.39"
+  },
+  {
+    "Product": "Salt",
+    "UOM": "",
+    "Batch Quantity": 0.001,
+    "Yield %": "100%",
+    "Quantity Yield": 0.001,
+    "Cost per unit/kg": "$ 3.95",
+    "Unit reduction": 1,
+    "Batch Cost": "$ 0.00"
+  },
+  {
+    "Product": "Pepper",
+    "UOM": "",
+    "Batch Quantity": 0.001,
+    "Yield %": "100%",
+    "Quantity Yield": 0.001,
+    "Cost per unit/kg": "$ 10.81",
+    "Unit reduction": 1,
+    "Batch Cost": "$ 0.01"
+  },
+  {
+    "Product": "Mustard",
+    "UOM": "",
+    "Batch Quantity": 0.03,
+    "Yield %": "100%",
+    "Quantity Yield": 0.03,
+    "Cost per unit/kg": "$ 7.53",
+    "Unit reduction": 0.92,
+    "Batch Cost": "$ 0.25"
+  },
+  {
+    "Product": "Onion",
+    "UOM": "",
+    "Batch Quantity": 0.025,
+    "Yield %": "100%",
+    "Quantity Yield": 0.025,
+    "Cost per unit/kg": "$ 1.99",
+    "Unit reduction": 1,
+    "Batch Cost": "$ 0.05"
+  },
+  {
+    "Product": "tomoato sauce",
+    "UOM": "",
+    "Batch Quantity": 0.03,
+    "Yield %": "100%",
+    "Quantity Yield": 0.03,
+    "Cost per unit/kg": "$ 17.42",
+    "Unit reduction": 4,
+    "Batch Cost": "$ 0.13"
+  },
+  {
+    "Product": "mozerella",
+    "UOM": "",
+    "Batch Quantity": 0.03,
+    "Yield %": "100%",
+    "Quantity Yield": 0.03,
+    "Cost per unit/kg": "$ 64.10",
+    "Unit reduction": 5,
+    "Batch Cost": "$ 0.38"
+  },
+  {
+    "Product": "american cheese",
+    "UOM": "",
+    "Batch Quantity": 0.055,
+    "Yield %": "100%",
+    "Quantity Yield": 0.055,
+    "Cost per unit/kg": "$ 14.74",
+    "Unit reduction": 1,
+    "Batch Cost": "$ 0.81"
+  },
+  {
+    "Product": "bread",
+    "UOM": "",
+    "Batch Quantity": 0.315,
+    "Yield %": "100%",
+    "Quantity Yield": 0.315,
+    "Cost per unit/kg": "$ 2.43",
+    "Unit reduction": 0.315,
+    "Batch Cost": "$ 2.43"
+  },
+  {
+    "Product": "Parmesan",
+    "UOM": "",
+    "Batch Quantity": 0.006,
+    "Yield %": "100%",
+    "Quantity Yield": 0.006,
+    "Cost per unit/kg": "$ 22.76",
+    "Unit reduction": 1,
+    "Batch Cost": "$ 0.14"
+  },
+  {
+    "Product": "Sesame seeds",
+    "UOM": "",
+    "Batch Quantity": 0.002,
+    "Yield %": "100%",
+    "Quantity Yield": 0.002,
+    "Cost per unit/kg": "$ 4.06",
+    "Unit reduction": 0.5,
+    "Batch Cost": "$ 0.02"
+  },
+  {
+    "Product": "parsley",
+    "UOM": "",
+    "Batch Quantity": 0.0045,
+    "Yield %": "100%",
+    "Quantity Yield": 0.005,
+    "Cost per unit/kg": "$ 18.03",
+    "Unit reduction": 1,
+    "Batch Cost": "$ 0.08"
+  },
+  {
+    "Product": "butter",
+    "UOM": "",
+    "Batch Quantity": 0.007,
+    "Yield %": "100%",
+    "Quantity Yield": 0.007,
+    "Cost per unit/kg": "$ 5.72",
+    "Unit reduction": 0.5,
+    "Batch Cost": "$ 0.08"
+  }
+]
