@@ -643,8 +643,8 @@ app.post('/', (req, res) => {
     functions.logger.info("Received mail, attempting to write to DB")
     root = HTMLParser.parse(req.body.html);
     //root = HTMLParser.parse(htmlToParse);
-    //let invoiceForFirestore = parseEmailResponse(root.childNodes[0])
-    let invoiceForFirestore = parseEmailResponseNewFormat(root)
+    let invoiceForFirestore = parseEmailResponse(root.childNodes[0])
+    //let invoiceForFirestore = parseEmailResponseNewFormat(root)
 
     functions.logger.info("parsed invoice:", invoiceForFirestore)
 
